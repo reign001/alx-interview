@@ -2,7 +2,7 @@
 """
 0. Pascal's Triangle
 """
-
+pascal_triangle = __import__('0-pascal_triangle').pascal_triangle
 
 def pascal_triangle(n):
     """Create a function def pascal_triangle(n): that returns a list of lists
